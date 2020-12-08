@@ -369,6 +369,7 @@ template {
       .main__text::after {
         font-size: 20px;
         top: 40px;
+        width: 100px;
         right: 143px; } }
 
 .main__span-link {
